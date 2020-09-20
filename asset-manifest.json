@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/suvobday/static/css/main.5f361e03.chunk.css",
-    "main.js": "/suvobday/static/js/main.9b80e9ae.chunk.js",
-    "main.js.map": "/suvobday/static/js/main.9b80e9ae.chunk.js.map",
+    "main.css": "/suvobday/static/css/main.c52a4d56.chunk.css",
+    "main.js": "/suvobday/static/js/main.bcfa53ed.chunk.js",
+    "main.js.map": "/suvobday/static/js/main.bcfa53ed.chunk.js.map",
     "runtime-main.js": "/suvobday/static/js/runtime-main.a7218a0e.js",
     "runtime-main.js.map": "/suvobday/static/js/runtime-main.a7218a0e.js.map",
-    "static/js/2.0dbe540c.chunk.js": "/suvobday/static/js/2.0dbe540c.chunk.js",
-    "static/js/2.0dbe540c.chunk.js.map": "/suvobday/static/js/2.0dbe540c.chunk.js.map",
+    "static/css/2.9a9a1f6f.chunk.css": "/suvobday/static/css/2.9a9a1f6f.chunk.css",
+    "static/js/2.7ea94ebb.chunk.js": "/suvobday/static/js/2.7ea94ebb.chunk.js",
+    "static/js/2.7ea94ebb.chunk.js.map": "/suvobday/static/js/2.7ea94ebb.chunk.js.map",
     "index.html": "/suvobday/index.html",
-    "precache-manifest.ff226d9eb54202d5506d1d0308875a9d.js": "/suvobday/precache-manifest.ff226d9eb54202d5506d1d0308875a9d.js",
+    "precache-manifest.1bc28d4b7c9836105ebee963e5580d28.js": "/suvobday/precache-manifest.1bc28d4b7c9836105ebee963e5580d28.js",
     "service-worker.js": "/suvobday/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/suvobday/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0dbe540c.chunk.js.LICENSE.txt": "/suvobday/static/js/2.0dbe540c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/suvobday/static/media/logo.5d5d9eef.svg"
+    "static/css/2.9a9a1f6f.chunk.css.map": "/suvobday/static/css/2.9a9a1f6f.chunk.css.map",
+    "static/css/main.c52a4d56.chunk.css.map": "/suvobday/static/css/main.c52a4d56.chunk.css.map",
+    "static/js/2.7ea94ebb.chunk.js.LICENSE.txt": "/suvobday/static/js/2.7ea94ebb.chunk.js.LICENSE.txt",
+    "static/media/Profile.jpg": "/suvobday/static/media/Profile.b6c7378a.jpg",
+    "static/media/index.css": "/suvobday/static/media/background.6acfa90b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a7218a0e.js",
-    "static/js/2.0dbe540c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9b80e9ae.chunk.js"
+    "static/css/2.9a9a1f6f.chunk.css",
+    "static/js/2.7ea94ebb.chunk.js",
+    "static/css/main.c52a4d56.chunk.css",
+    "static/js/main.bcfa53ed.chunk.js"
   ]
 }
