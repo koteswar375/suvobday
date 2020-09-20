@@ -1,0 +1,19 @@
+.gallery {
+    display:flex;
+    flex-direction: column;
+    margin-top:25px;
+}
+
+.cards-list {
+    width:100%;
+    padding:20px;
+}
+
+
+.card-item {
+    height:200px;
+    width:200px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    background-color: #fff;;
+}

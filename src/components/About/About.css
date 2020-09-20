@@ -1,0 +1,14 @@
+.aboutme {
+    height:40vh;
+}
+
+
+.profilePic {
+    height: 250px;
+    width:250px;
+    position:relative;
+    top:-50%;
+    left:400px;
+    border:2px solid white;
+    z-index:5;
+}
