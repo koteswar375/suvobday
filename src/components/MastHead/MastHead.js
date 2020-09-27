@@ -1,13 +1,13 @@
 import React from 'react';
-import './MastHead.css';
+import './MastHead.scss';
 
 const MastHead = (props) => {
 
     return (
-        <div className="masthead">
-            <div className="name-box">
-                <span style={{letterSpacing:'10px', fontSize:'2rem', display:'block'}} className="white-text center-align">SUVOJIT DHAR</span>
-                <span style={{letterSpacing:'10px', fontSize:'2rem', display:'block'}} className="white-text center-align">CHOWDHURY</span>
+        <div className="masthead row">
+            <div className="name-box col s6 m6 l4">
+                <div className="white-text center-align text-inside-box">SUVOJIT DHAR</div>
+                <div className="white-text center-align text-inside-box">CHOWDHURY</div>
             </div>
         </div>
     )

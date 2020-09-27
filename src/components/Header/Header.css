@@ -10,3 +10,16 @@
    }
 }
 
+.header {
+    border-bottom: 2px solid white;
+}
+
+.header a {
+    font-weight: 600;
+    letter-spacing:2px;
+} 
+
+.sidenav-trigger  {
+    color:white;
+    padding:10px;
+}
