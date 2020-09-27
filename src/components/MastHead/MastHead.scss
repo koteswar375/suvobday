@@ -1,0 +1,64 @@
+@mixin mQ($arg...) {
+    @if length($arg)==2 {
+        @media screen and (min-width: nth($arg, 1)) and (max-width: nth($arg, 2)) {
+            @content;
+        }
+    }
+    @if length($arg)==1 {
+        @media screen and (min-width: $arg) {
+            @content;
+        }
+    }
+}
+
+.masthead {
+    height: 75vh;
+    position: relative;
+    border-bottom: 3px solid white;
+}
+
+.name-box {
+    height: 20%;
+    border: 2px solid #fff;
+    position: absolute;
+    bottom: 25%;
+    right: 10% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    @include mQ(1024px) {
+        max-width: 30%;
+    }
+    @include mQ(768px,1024px) {
+        max-width: 40%;
+    }
+
+    @include mQ(1px, 601px) {
+        bottom: 40%;
+    }
+
+    @include mQ(1px, 450px) {
+        height: 15%;
+        width:60% !important;
+    }
+}
+
+.text-inside-box {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 10px;
+
+    @include mQ(1px, 450px) {
+        font-size: 16px;
+        letter-spacing: 5px;
+    }
+
+    @include mQ(450px, 601px) {
+        letter-spacing: 5px;
+    }
+
+    @include mQ(1440px) {
+        font-size: 25px;
+        letter-spacing: 15px;
+    }
+}

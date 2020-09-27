@@ -1,0 +1,30 @@
+.aboutme {
+    height:40vh;
+    border-bottom: 2px solid white;
+    position:relative;
+}
+
+@mixin mQ($arg...) {
+    @media screen and (min-width:nth($arg, 1)) and (max-width: nth($arg, 2)) {
+        @content;
+    }
+}
+
+.profilePic {
+    height: 300px;
+    width:300px;
+    position:absolute;
+    left:10%;
+    top: -30%;
+    border:2px solid white;
+    z-index:5;
+    @include mQ(1px, 425px) {
+        height: 150px;
+        width:150px;
+    }
+    @include mQ(425px, 768px) {
+        height: 200px;
+        width:200px;
+    }
+}
+
