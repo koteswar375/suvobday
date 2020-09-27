@@ -1,27 +1,41 @@
 {
   "files": {
-    "main.css": "/suvobday/static/css/main.c52a4d56.chunk.css",
-    "main.js": "/suvobday/static/js/main.bcfa53ed.chunk.js",
-    "main.js.map": "/suvobday/static/js/main.bcfa53ed.chunk.js.map",
+    "main.css": "/suvobday/static/css/main.7ff4f4e4.chunk.css",
+    "main.js": "/suvobday/static/js/main.86c8ad61.chunk.js",
+    "main.js.map": "/suvobday/static/js/main.86c8ad61.chunk.js.map",
     "runtime-main.js": "/suvobday/static/js/runtime-main.a7218a0e.js",
     "runtime-main.js.map": "/suvobday/static/js/runtime-main.a7218a0e.js.map",
     "static/css/2.9a9a1f6f.chunk.css": "/suvobday/static/css/2.9a9a1f6f.chunk.css",
-    "static/js/2.7ea94ebb.chunk.js": "/suvobday/static/js/2.7ea94ebb.chunk.js",
-    "static/js/2.7ea94ebb.chunk.js.map": "/suvobday/static/js/2.7ea94ebb.chunk.js.map",
+    "static/js/2.8b912bae.chunk.js": "/suvobday/static/js/2.8b912bae.chunk.js",
+    "static/js/2.8b912bae.chunk.js.map": "/suvobday/static/js/2.8b912bae.chunk.js.map",
     "index.html": "/suvobday/index.html",
-    "precache-manifest.1bc28d4b7c9836105ebee963e5580d28.js": "/suvobday/precache-manifest.1bc28d4b7c9836105ebee963e5580d28.js",
+    "precache-manifest.786fa7040de74d4d6021472acdd9c9a7.js": "/suvobday/precache-manifest.786fa7040de74d4d6021472acdd9c9a7.js",
     "service-worker.js": "/suvobday/service-worker.js",
     "static/css/2.9a9a1f6f.chunk.css.map": "/suvobday/static/css/2.9a9a1f6f.chunk.css.map",
-    "static/css/main.c52a4d56.chunk.css.map": "/suvobday/static/css/main.c52a4d56.chunk.css.map",
-    "static/js/2.7ea94ebb.chunk.js.LICENSE.txt": "/suvobday/static/js/2.7ea94ebb.chunk.js.LICENSE.txt",
+    "static/css/main.7ff4f4e4.chunk.css.map": "/suvobday/static/css/main.7ff4f4e4.chunk.css.map",
+    "static/js/2.8b912bae.chunk.js.LICENSE.txt": "/suvobday/static/js/2.8b912bae.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/suvobday/static/media/1.40d90160.jpg",
+    "static/media/2.jpg": "/suvobday/static/media/2.843185f9.jpg",
+    "static/media/3.jpg": "/suvobday/static/media/3.2b5776be.jpg",
+    "static/media/4.jpg": "/suvobday/static/media/4.86630263.jpg",
+    "static/media/65467551_143945903363626_6879010701631646748_n.jpg": "/suvobday/static/media/65467551_143945903363626_6879010701631646748_n.9804a20b.jpg",
+    "static/media/66288804_2333138300114776_5184871278347026432_o.jpg": "/suvobday/static/media/66288804_2333138300114776_5184871278347026432_o.4a3a7216.jpg",
+    "static/media/66369800_2333137660114840_7659715813229723648_o.jpg": "/suvobday/static/media/66369800_2333137660114840_7659715813229723648_o.8b86829e.jpg",
+    "static/media/66439876_376803879558422_1907775457209122009_n.jpg": "/suvobday/static/media/66439876_376803879558422_1907775457209122009_n.fe297903.jpg",
+    "static/media/66594273_2333137966781476_7116892321370603520_o.jpg": "/suvobday/static/media/66594273_2333137966781476_7116892321370603520_o.844f5094.jpg",
+    "static/media/67410613_238958347063065_4586349801845878845_n.jpg": "/suvobday/static/media/67410613_238958347063065_4586349801845878845_n.01eb2bb9.jpg",
+    "static/media/85109099_2776401435788458_6290599081010003968_o.jpg": "/suvobday/static/media/85109099_2776401435788458_6290599081010003968_o.f202ab3c.jpg",
+    "static/media/88956858_2823894241039177_4976923371489984512_o.jpg": "/suvobday/static/media/88956858_2823894241039177_4976923371489984512_o.892beddb.jpg",
+    "static/media/88993275_2821413051287296_4903899362565816320_o.jpg": "/suvobday/static/media/88993275_2821413051287296_4903899362565816320_o.d410dd02.jpg",
+    "static/media/89380384_2837470676348200_1186271225580617728_o.jpg": "/suvobday/static/media/89380384_2837470676348200_1186271225580617728_o.ebf9cf90.jpg",
     "static/media/Profile.jpg": "/suvobday/static/media/Profile.b6c7378a.jpg",
-    "static/media/index.css": "/suvobday/static/media/background.6acfa90b.jpg"
+    "static/media/bg.png": "/suvobday/static/media/bg.1d035138.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a7218a0e.js",
     "static/css/2.9a9a1f6f.chunk.css",
-    "static/js/2.7ea94ebb.chunk.js",
-    "static/css/main.c52a4d56.chunk.css",
-    "static/js/main.bcfa53ed.chunk.js"
+    "static/js/2.8b912bae.chunk.js",
+    "static/css/main.7ff4f4e4.chunk.css",
+    "static/js/main.86c8ad61.chunk.js"
   ]
 }
