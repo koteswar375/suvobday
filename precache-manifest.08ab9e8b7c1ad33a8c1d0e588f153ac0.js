@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b351f51fa4a27a09622aeab6b37b3a43",
+    "revision": "973283b280a07508c06c9fe085bcf01d",
     "url": "/suvobday/index.html"
   },
   {
-    "revision": "3444281f605226456c11",
+    "revision": "d5b34f032342910085aa",
     "url": "/suvobday/static/css/2.9a9a1f6f.chunk.css"
   },
   {
-    "revision": "7efc1e663bad854d1741",
-    "url": "/suvobday/static/css/main.e8a34938.chunk.css"
+    "revision": "c9158477a9c2f45bfee6",
+    "url": "/suvobday/static/css/main.97b737b2.chunk.css"
   },
   {
-    "revision": "3444281f605226456c11",
-    "url": "/suvobday/static/js/2.8b912bae.chunk.js"
+    "revision": "d5b34f032342910085aa",
+    "url": "/suvobday/static/js/2.6058e083.chunk.js"
   },
   {
     "revision": "f3df11ca4cc8eaf0f270098bfa135497",
-    "url": "/suvobday/static/js/2.8b912bae.chunk.js.LICENSE.txt"
+    "url": "/suvobday/static/js/2.6058e083.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7efc1e663bad854d1741",
-    "url": "/suvobday/static/js/main.041a50c5.chunk.js"
+    "revision": "c9158477a9c2f45bfee6",
+    "url": "/suvobday/static/js/main.45fb1075.chunk.js"
   },
   {
     "revision": "d8267bc69d9b8850b2df",
