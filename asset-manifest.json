@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/suvobday/static/css/main.5613d419.chunk.css",
+    "main.css": "/suvobday/static/css/main.5e5d82c0.chunk.css",
     "main.js": "/suvobday/static/js/main.b8cb1523.chunk.js",
     "main.js.map": "/suvobday/static/js/main.b8cb1523.chunk.js.map",
     "runtime-main.js": "/suvobday/static/js/runtime-main.a7218a0e.js",
@@ -9,10 +9,10 @@
     "static/js/2.6058e083.chunk.js": "/suvobday/static/js/2.6058e083.chunk.js",
     "static/js/2.6058e083.chunk.js.map": "/suvobday/static/js/2.6058e083.chunk.js.map",
     "index.html": "/suvobday/index.html",
-    "precache-manifest.0edef4562f9eb58087579b94829157f2.js": "/suvobday/precache-manifest.0edef4562f9eb58087579b94829157f2.js",
+    "precache-manifest.250608666545e37f82df59ba3d33b632.js": "/suvobday/precache-manifest.250608666545e37f82df59ba3d33b632.js",
     "service-worker.js": "/suvobday/service-worker.js",
     "static/css/2.9a9a1f6f.chunk.css.map": "/suvobday/static/css/2.9a9a1f6f.chunk.css.map",
-    "static/css/main.5613d419.chunk.css.map": "/suvobday/static/css/main.5613d419.chunk.css.map",
+    "static/css/main.5e5d82c0.chunk.css.map": "/suvobday/static/css/main.5e5d82c0.chunk.css.map",
     "static/js/2.6058e083.chunk.js.LICENSE.txt": "/suvobday/static/js/2.6058e083.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/suvobday/static/media/1.40d90160.jpg",
     "static/media/2.jpg": "/suvobday/static/media/2.843185f9.jpg",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.a7218a0e.js",
     "static/css/2.9a9a1f6f.chunk.css",
     "static/js/2.6058e083.chunk.js",
-    "static/css/main.5613d419.chunk.css",
+    "static/css/main.5e5d82c0.chunk.css",
     "static/js/main.b8cb1523.chunk.js"
   ]
 }
