@@ -23,3 +23,15 @@
     color:white;
     padding:10px;
 }
+
+.sidenav {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidenav a {
+    padding:5px !important;
+    text-align: center;
+    line-height: 30px;
+    font-weight: 500;
+}
