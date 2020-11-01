@@ -2,7 +2,7 @@
 
 body {
   background: url(photos/background/bg.png) no-repeat center top fixed;
-  background-size: fixed; 
+  background-size: cover; 
   min-height: 100vh;
 
   margin: 0;
