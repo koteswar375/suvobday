@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/suvobday/static/css/main.5e5d82c0.chunk.css",
-    "main.js": "/suvobday/static/js/main.b8cb1523.chunk.js",
-    "main.js.map": "/suvobday/static/js/main.b8cb1523.chunk.js.map",
+    "main.js": "/suvobday/static/js/main.76367e4b.chunk.js",
+    "main.js.map": "/suvobday/static/js/main.76367e4b.chunk.js.map",
     "runtime-main.js": "/suvobday/static/js/runtime-main.a7218a0e.js",
     "runtime-main.js.map": "/suvobday/static/js/runtime-main.a7218a0e.js.map",
     "static/css/2.9a9a1f6f.chunk.css": "/suvobday/static/css/2.9a9a1f6f.chunk.css",
     "static/js/2.6058e083.chunk.js": "/suvobday/static/js/2.6058e083.chunk.js",
     "static/js/2.6058e083.chunk.js.map": "/suvobday/static/js/2.6058e083.chunk.js.map",
     "index.html": "/suvobday/index.html",
-    "precache-manifest.250608666545e37f82df59ba3d33b632.js": "/suvobday/precache-manifest.250608666545e37f82df59ba3d33b632.js",
+    "precache-manifest.44510c1a7bbcf4510905bbd69a8f3a6b.js": "/suvobday/precache-manifest.44510c1a7bbcf4510905bbd69a8f3a6b.js",
     "service-worker.js": "/suvobday/service-worker.js",
     "static/css/2.9a9a1f6f.chunk.css.map": "/suvobday/static/css/2.9a9a1f6f.chunk.css.map",
     "static/css/main.5e5d82c0.chunk.css.map": "/suvobday/static/css/main.5e5d82c0.chunk.css.map",
@@ -36,6 +36,6 @@
     "static/css/2.9a9a1f6f.chunk.css",
     "static/js/2.6058e083.chunk.js",
     "static/css/main.5e5d82c0.chunk.css",
-    "static/js/main.b8cb1523.chunk.js"
+    "static/js/main.76367e4b.chunk.js"
   ]
 }
