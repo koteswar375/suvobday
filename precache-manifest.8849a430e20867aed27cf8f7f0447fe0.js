@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29b3798d26f0aded7cb035d4a640986d",
+    "revision": "b0ae9093742ac7e289daa0597134f227",
     "url": "/suvobday/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvobday/static/css/2.9a9a1f6f.chunk.css"
   },
   {
-    "revision": "9886eacc1cb62f6ac78f",
-    "url": "/suvobday/static/css/main.14396c00.chunk.css"
+    "revision": "19b3cf183a7d38e4ac79",
+    "url": "/suvobday/static/css/main.0de37d9b.chunk.css"
   },
   {
     "revision": "3444281f605226456c11",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvobday/static/js/2.8b912bae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9886eacc1cb62f6ac78f",
-    "url": "/suvobday/static/js/main.86c8ad61.chunk.js"
+    "revision": "19b3cf183a7d38e4ac79",
+    "url": "/suvobday/static/js/main.041a50c5.chunk.js"
   },
   {
     "revision": "d8267bc69d9b8850b2df",
