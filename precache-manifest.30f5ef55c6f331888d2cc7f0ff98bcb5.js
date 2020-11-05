@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "413fc94cef4a9dd676c2f9561edf5a4a",
+    "revision": "6e8128506e17642da8624c516618622a",
     "url": "/suvobday/index.html"
   },
   {
-    "revision": "d5b34f032342910085aa",
+    "revision": "3ef06f14edf1e299cfbc",
     "url": "/suvobday/static/css/2.9a9a1f6f.chunk.css"
   },
   {
-    "revision": "1f88bb78b18e8253d252",
-    "url": "/suvobday/static/css/main.cfae9d1b.chunk.css"
+    "revision": "06b75ffb8ae474d27be3",
+    "url": "/suvobday/static/css/main.4172841e.chunk.css"
   },
   {
-    "revision": "d5b34f032342910085aa",
-    "url": "/suvobday/static/js/2.6058e083.chunk.js"
+    "revision": "3ef06f14edf1e299cfbc",
+    "url": "/suvobday/static/js/2.414a24d8.chunk.js"
   },
   {
     "revision": "f3df11ca4cc8eaf0f270098bfa135497",
-    "url": "/suvobday/static/js/2.6058e083.chunk.js.LICENSE.txt"
+    "url": "/suvobday/static/js/2.414a24d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f88bb78b18e8253d252",
-    "url": "/suvobday/static/js/main.b273cbd5.chunk.js"
+    "revision": "06b75ffb8ae474d27be3",
+    "url": "/suvobday/static/js/main.97067824.chunk.js"
   },
   {
     "revision": "d8267bc69d9b8850b2df",
@@ -86,6 +86,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6c7378ae7be469607ee7d387b8580b7",
     "url": "/suvobday/static/media/Profile.b6c7378a.jpg"
+  },
+  {
+    "revision": "d8a7195074a076fb4b1037847cd7aaf2",
+    "url": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.52.39.d8a71950.jpeg"
+  },
+  {
+    "revision": "f93b1a8994cee932d841677a915a1a8f",
+    "url": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.52.41.f93b1a89.jpeg"
+  },
+  {
+    "revision": "d9ef25d7dc6fb227ef375c7112a80fec",
+    "url": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.54.26.d9ef25d7.jpeg"
+  },
+  {
+    "revision": "44b1b6c8ac6dd79e117412537f8708fe",
+    "url": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.56.34.44b1b6c8.jpeg"
+  },
+  {
+    "revision": "fcd29154ef7ebf3bae49492869d3627e",
+    "url": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.56.41.fcd29154.jpeg"
+  },
+  {
+    "revision": "cb26b82bc71d4b6edcf54ac79e225ba0",
+    "url": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.56.45.cb26b82b.jpeg"
   },
   {
     "revision": "8c92311b05a666c4ee7682a28b32ba93",

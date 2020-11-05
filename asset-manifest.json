@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/suvobday/static/css/main.cfae9d1b.chunk.css",
-    "main.js": "/suvobday/static/js/main.b273cbd5.chunk.js",
-    "main.js.map": "/suvobday/static/js/main.b273cbd5.chunk.js.map",
+    "main.css": "/suvobday/static/css/main.4172841e.chunk.css",
+    "main.js": "/suvobday/static/js/main.97067824.chunk.js",
+    "main.js.map": "/suvobday/static/js/main.97067824.chunk.js.map",
     "runtime-main.js": "/suvobday/static/js/runtime-main.a7218a0e.js",
     "runtime-main.js.map": "/suvobday/static/js/runtime-main.a7218a0e.js.map",
     "static/css/2.9a9a1f6f.chunk.css": "/suvobday/static/css/2.9a9a1f6f.chunk.css",
-    "static/js/2.6058e083.chunk.js": "/suvobday/static/js/2.6058e083.chunk.js",
-    "static/js/2.6058e083.chunk.js.map": "/suvobday/static/js/2.6058e083.chunk.js.map",
+    "static/js/2.414a24d8.chunk.js": "/suvobday/static/js/2.414a24d8.chunk.js",
+    "static/js/2.414a24d8.chunk.js.map": "/suvobday/static/js/2.414a24d8.chunk.js.map",
     "index.html": "/suvobday/index.html",
-    "precache-manifest.476413ed1876406f246cea6a7c9f0f79.js": "/suvobday/precache-manifest.476413ed1876406f246cea6a7c9f0f79.js",
+    "precache-manifest.30f5ef55c6f331888d2cc7f0ff98bcb5.js": "/suvobday/precache-manifest.30f5ef55c6f331888d2cc7f0ff98bcb5.js",
     "service-worker.js": "/suvobday/service-worker.js",
     "static/css/2.9a9a1f6f.chunk.css.map": "/suvobday/static/css/2.9a9a1f6f.chunk.css.map",
-    "static/css/main.cfae9d1b.chunk.css.map": "/suvobday/static/css/main.cfae9d1b.chunk.css.map",
-    "static/js/2.6058e083.chunk.js.LICENSE.txt": "/suvobday/static/js/2.6058e083.chunk.js.LICENSE.txt",
+    "static/css/main.4172841e.chunk.css.map": "/suvobday/static/css/main.4172841e.chunk.css.map",
+    "static/js/2.414a24d8.chunk.js.LICENSE.txt": "/suvobday/static/js/2.414a24d8.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/suvobday/static/media/1.40d90160.jpg",
     "static/media/2.jpg": "/suvobday/static/media/2.843185f9.jpg",
     "static/media/3.jpg": "/suvobday/static/media/3.2b5776be.jpg",
@@ -29,13 +29,19 @@
     "static/media/88993275_2821413051287296_4903899362565816320_o.jpg": "/suvobday/static/media/88993275_2821413051287296_4903899362565816320_o.d410dd02.jpg",
     "static/media/89380384_2837470676348200_1186271225580617728_o.jpg": "/suvobday/static/media/89380384_2837470676348200_1186271225580617728_o.ebf9cf90.jpg",
     "static/media/Profile.jpg": "/suvobday/static/media/Profile.b6c7378a.jpg",
+    "static/media/WhatsApp Image 2020-10-24 at 19.52.39.jpeg": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.52.39.d8a71950.jpeg",
+    "static/media/WhatsApp Image 2020-10-24 at 19.52.41.jpeg": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.52.41.f93b1a89.jpeg",
+    "static/media/WhatsApp Image 2020-10-24 at 19.54.26.jpeg": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.54.26.d9ef25d7.jpeg",
+    "static/media/WhatsApp Image 2020-10-24 at 19.56.34.jpeg": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.56.34.44b1b6c8.jpeg",
+    "static/media/WhatsApp Image 2020-10-24 at 19.56.41.jpeg": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.56.41.fcd29154.jpeg",
+    "static/media/WhatsApp Image 2020-10-24 at 19.56.45.jpeg": "/suvobday/static/media/WhatsApp Image 2020-10-24 at 19.56.45.cb26b82b.jpeg",
     "static/media/bg.png": "/suvobday/static/media/bg.8c92311b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a7218a0e.js",
     "static/css/2.9a9a1f6f.chunk.css",
-    "static/js/2.6058e083.chunk.js",
-    "static/css/main.cfae9d1b.chunk.css",
-    "static/js/main.b273cbd5.chunk.js"
+    "static/js/2.414a24d8.chunk.js",
+    "static/css/main.4172841e.chunk.css",
+    "static/js/main.97067824.chunk.js"
   ]
 }
