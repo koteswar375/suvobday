@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fb65e29497faeffed831c968da705df",
+    "revision": "38912494caa2cf577f6b14d241f6c992",
     "url": "/suvobday/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvobday/static/css/2.9a9a1f6f.chunk.css"
   },
   {
-    "revision": "faf6c0ba8c15336be693",
-    "url": "/suvobday/static/css/main.24877642.chunk.css"
+    "revision": "cc4b12d9f43a57a5b2e1",
+    "url": "/suvobday/static/css/main.95df8ad3.chunk.css"
   },
   {
     "revision": "d5b34f032342910085aa",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvobday/static/js/2.6058e083.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "faf6c0ba8c15336be693",
-    "url": "/suvobday/static/js/main.7457d1b6.chunk.js"
+    "revision": "cc4b12d9f43a57a5b2e1",
+    "url": "/suvobday/static/js/main.7ce86656.chunk.js"
   },
   {
     "revision": "d8267bc69d9b8850b2df",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suvobday/static/media/Profile.b6c7378a.jpg"
   },
   {
-    "revision": "1d035138ece243ea611328f7536c51ef",
-    "url": "/suvobday/static/media/bg.1d035138.png"
+    "revision": "8c92311b05a666c4ee7682a28b32ba93",
+    "url": "/suvobday/static/media/bg.8c92311b.png"
   }
 ]);

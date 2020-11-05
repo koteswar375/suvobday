@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/suvobday/static/css/main.24877642.chunk.css",
-    "main.js": "/suvobday/static/js/main.7457d1b6.chunk.js",
-    "main.js.map": "/suvobday/static/js/main.7457d1b6.chunk.js.map",
+    "main.css": "/suvobday/static/css/main.95df8ad3.chunk.css",
+    "main.js": "/suvobday/static/js/main.7ce86656.chunk.js",
+    "main.js.map": "/suvobday/static/js/main.7ce86656.chunk.js.map",
     "runtime-main.js": "/suvobday/static/js/runtime-main.a7218a0e.js",
     "runtime-main.js.map": "/suvobday/static/js/runtime-main.a7218a0e.js.map",
     "static/css/2.9a9a1f6f.chunk.css": "/suvobday/static/css/2.9a9a1f6f.chunk.css",
     "static/js/2.6058e083.chunk.js": "/suvobday/static/js/2.6058e083.chunk.js",
     "static/js/2.6058e083.chunk.js.map": "/suvobday/static/js/2.6058e083.chunk.js.map",
     "index.html": "/suvobday/index.html",
-    "precache-manifest.61ff74cfc432961da2fb547a23d7fdf2.js": "/suvobday/precache-manifest.61ff74cfc432961da2fb547a23d7fdf2.js",
+    "precache-manifest.59b7e1d16720730b14294e34a3c3a641.js": "/suvobday/precache-manifest.59b7e1d16720730b14294e34a3c3a641.js",
     "service-worker.js": "/suvobday/service-worker.js",
     "static/css/2.9a9a1f6f.chunk.css.map": "/suvobday/static/css/2.9a9a1f6f.chunk.css.map",
-    "static/css/main.24877642.chunk.css.map": "/suvobday/static/css/main.24877642.chunk.css.map",
+    "static/css/main.95df8ad3.chunk.css.map": "/suvobday/static/css/main.95df8ad3.chunk.css.map",
     "static/js/2.6058e083.chunk.js.LICENSE.txt": "/suvobday/static/js/2.6058e083.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/suvobday/static/media/1.40d90160.jpg",
     "static/media/2.jpg": "/suvobday/static/media/2.843185f9.jpg",
@@ -29,13 +29,13 @@
     "static/media/88993275_2821413051287296_4903899362565816320_o.jpg": "/suvobday/static/media/88993275_2821413051287296_4903899362565816320_o.d410dd02.jpg",
     "static/media/89380384_2837470676348200_1186271225580617728_o.jpg": "/suvobday/static/media/89380384_2837470676348200_1186271225580617728_o.ebf9cf90.jpg",
     "static/media/Profile.jpg": "/suvobday/static/media/Profile.b6c7378a.jpg",
-    "static/media/bg.png": "/suvobday/static/media/bg.1d035138.png"
+    "static/media/bg.png": "/suvobday/static/media/bg.8c92311b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a7218a0e.js",
     "static/css/2.9a9a1f6f.chunk.css",
     "static/js/2.6058e083.chunk.js",
-    "static/css/main.24877642.chunk.css",
-    "static/js/main.7457d1b6.chunk.js"
+    "static/css/main.95df8ad3.chunk.css",
+    "static/js/main.7ce86656.chunk.js"
   ]
 }
