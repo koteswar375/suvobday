@@ -1,20 +1,57 @@
-.aboutme {
-    height:40vh;
-    border-bottom: 2px solid white;
-    position:relative;
-    section {
-        color: #ffffff;
-        padding:10px;
-        position:relative;
-        top:50%;
-    }
-}
-
 @mixin mQ($arg...) {
     @media screen and (min-width:nth($arg, 1)) and (max-width: nth($arg, 2)) {
         @content;
     }
 }
+
+
+.aboutme {
+    height:40vh;
+    border-bottom: 2px solid white;
+    position:relative;
+    label {
+        display:block;
+        text-align: center;
+        font-weight: 700;
+        font-size:1.7rem;
+        @include mQ(1px, 425px) {
+            font-weight: 500;
+            font-size:1.5rem;
+        }
+        @include mQ(425px, 768px) {
+            font-weight: 500;
+            font-size:1.5rem;
+        }
+    }
+    .aboutme-content {
+        position:relative;
+        text-align: justify;
+        color: #ffffff;
+        padding:10px;
+        font-weight: 300;
+        top:10%;
+        margin-left:40%;
+        margin-right:50px;
+        font-size: 20px;
+        @include mQ(1px, 425px) {
+            top:20%;
+            margin:0 auto;
+            font-size: 14px;
+        }
+        @include mQ(425px, 768px) {
+            top:35%;
+            margin:0 auto;
+            font-size: 15px;
+        }
+        @include mQ(768px, 1024px) {
+            font-size: 16px;
+            margin-right:10px;
+        }
+    }
+}
+
+
+
 
 
 .profilePic {
@@ -32,6 +69,10 @@
     @include mQ(425px, 768px) {
         height: 200px;
         width:200px;
+    }
+    @include mQ(768px, 1024px) {
+        height: 250px;
+        width:250px;
     }
 }
 

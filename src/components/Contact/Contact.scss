@@ -1,3 +1,8 @@
+@mixin mQ($arg...) {
+    @media screen and (min-width:nth($arg, 1)) and (max-width: nth($arg, 2)) {
+        @content;
+    }
+}
 .contactForm {
     display: flex;
     flex-direction: column;
@@ -6,7 +11,7 @@
     padding: 10px;
     width: 80vw;
     position: relative;
-    top:30vh;
+    top:40vh;
 }
 
 .contactForm div {
@@ -17,6 +22,7 @@
 }
 
 .contactForm div label {
-    font-weight: 500;
+    font-weight: 400;
     color:white;
+    font-size: 1rem;
 }
