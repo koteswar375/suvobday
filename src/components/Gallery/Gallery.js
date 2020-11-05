@@ -1,5 +1,5 @@
 import React from 'react';
-import './Gallery.css';
+import './Gallery.scss';
 import ImageCard from './ImageCard';
 
 

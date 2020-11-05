@@ -1,5 +1,5 @@
 import React, { Component, createRef } from 'react';
-import './ImageCard.css';
+import './ImageCard.scss';
 
 class ImageCard extends Component {
     constructor(props) {
